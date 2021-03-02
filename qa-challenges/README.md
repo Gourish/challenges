@@ -3,7 +3,7 @@
 * to be filled by the candidate
 
 ## Service Requirements ##
-This application is a shell application with user management as a basic feature. Admin can add/create/delete users. A user can only look at his/her information. Admin has more features to look at the app and access to swagger.
+This application (https://secure-oasis-12806.herokuapp.com/) is a shell application with user management as a basic feature. Admin can add/create/delete users. A user can only look at his/her information. Admin has more features to look at the app and access to swagger.
 
 ## Challenge - 1 Create an excel test plan ##
 ### Goal ###
