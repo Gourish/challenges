@@ -1,5 +1,5 @@
 # QA Challenge #
-## Add Your Instructions Here ##
+## Add Your Instructions Here if you're submitting a pull request ##
 * to be filled by the candidate
 
 ## Service Requirements ##
