@@ -46,7 +46,7 @@ This is a Level 3 Challenge. You will be evaluated on
 
 ## Challenge - 4 Selenium Tests ##
 
-Get Selenium tests working locally and add 10-20 Selenium tests for requirements not covered by the current code. Add instructions on how to run the Selenium code. Create a Pull Request for Selenium Code you wrote.
+[Selenium](https://www.selenium.dev/documentation/en/) is a browser automation testing tool. Get Selenium tests working locally and add 10-20 Selenium tests for requirements not covered by the current code. Add instructions on how to run the Selenium code. Create a Pull Request for Selenium Code you wrote.
 Evaluation Criteria
 
 This is a Level 3 Challenge. You will be evaluated on
