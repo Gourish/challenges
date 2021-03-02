@@ -44,7 +44,10 @@ This is a Level 3 Challenge. You will be evaluated on
 4. Written communication and documentation ability
 5. Challenge - 4 Selenium Tests
 
-Get Selenium tests working locally and add 10-20 selenium tests for requirements not covered by the current code. Add instructions on how to run the selenium code. Create a Pull Request for Selenium Code you wrote.
+
+## Challenge - 4 Selenium Tests ##
+
+Get Selenium tests working locally and add 10-20 Selenium tests for requirements not covered by the current code. Add instructions on how to run the Selenium code. Create a Pull Request for Selenium Code you wrote.
 Evaluation Criteria
 
 This is a Level 3 Challenge. You will be evaluated on
