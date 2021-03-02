@@ -42,8 +42,7 @@ This is a Level 3 Challenge. You will be evaluated on
 2. Clarity and Accuracy of instructions provided in README
 3. Quality, Relevance and Value of the Cucumber tests
 4. Written communication and documentation ability
-5. Challenge - 4 Selenium Tests
-
+5. Pull Request quality and mastery of git
 
 ## Challenge - 4 Selenium Tests ##
 
@@ -56,3 +55,4 @@ This is a Level 3 Challenge. You will be evaluated on
 2. Clarity and Accuracy of instructions provided in README
 3. Quality, Relevance and Value of the Selenium tests
 4. Written communication and documentation ability
+5. Pull Request quality and mastery of git
