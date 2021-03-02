@@ -33,7 +33,7 @@ This is a Level 2 challenge. In addition to the criteria for creating a test pla
 
 ## Challenge - 3 Cucumber Tests ##
 
-Get cucumber tests working locally and add 10-20 cucumber tests for requirements not covered by the current code. Add instructions on how to run cucumber tests for the evaluator. Create a pull Request for selenium code that you wrote.
+[Cucumber](https://cucumber.io/docs/guides/overview/#what-is-cucumber) is a Behavior-Driven-Design(BDD) test framework. Get cucumber tests working locally and add 10-20 cucumber tests for requirements not covered by the current code. Add instructions on how to run cucumber tests for the evaluator. Create a pull Request for selenium code that you wrote.
 Evaluation Criteria
 
 This is a Level 3 Challenge. You will be evaluated on
