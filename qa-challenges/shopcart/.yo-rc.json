@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "life.flo"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "shopcart",
+    "packageName": "life.flo",
+    "packageFolder": "life/flo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzU3MWQ2NWJhOWJhMDgyYTQ0MjM0ODcwZjhiYTgzZTUzNzI3YWYwY2ZlN2FkNGU5MDY1NTllM2IwZjhjYmQ5ZTc3ZjlhZTkwYTVlYjAyY2VhODc0ZTI5YTFhYzhhYzI5MjFmMjJhZjlkMjhmMTIyYjFhODk4Zjk3ZTQ0ZjM1NDU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1614525659170,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "herokuAppName": "secure-oasis-12806",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "1.8"
+  }
+}
