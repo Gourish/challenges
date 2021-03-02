@@ -22,7 +22,7 @@ This is a level 1 challenge. You will be evaluated on
 
 ## Challenge - 2 Submit a testlink testplan in the form of a testlink xml file ##
 
-TestLink is an open source free-to-use requirements and test plan management tool. It is available for download here. A Testlink test plan can be exported to xml using the web GUI.
+[TestLink](http://testlink.sourceforge.net/docs/documents/end-users/manual.html) is an open source free-to-use requirements and test plan management tool. It is available for download [here](https://bitnami.com/stack/testlink/installer). A Testlink test plan can be exported to xml using the web GUI.
 Evaluation Criteria
 
 This is a Level 2 challenge. In addition to the criteria for creating a test plan, you will be evaluated on
