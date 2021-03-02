@@ -2,8 +2,14 @@
 ## Add Your Instructions Here if you're submitting a pull request ##
 * to be filled by the candidate
 
-## Service Requirements ##
+## Setup instructions ##
 This application (https://secure-oasis-12806.herokuapp.com/) is a shell application with user management as a basic feature. Admin can add/create/delete users. A user can only look at his/her information. Admin has more features to look at the app and access to swagger.
+
+### Access Information ###
+Role | Login| Password
+-----|------|---------
+User|user|user
+Admin|admin|admin
 
 ## Challenge - 1 Create an excel test plan ##
 ### Goal ###
