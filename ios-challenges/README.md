@@ -1,6 +1,6 @@
 Please reach out if you need help completing these. For a sample of clean architecture, check out the examples directory.
 
-Pick at least one of the following challenges to complete.
+Pick one of the following challenges to complete.
 
 # Challenge 1 - RxDemo
 1. Create an Xcode project
