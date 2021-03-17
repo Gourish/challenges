@@ -16,6 +16,6 @@ Please reach out if you need help completing any of these tasks.
 13. The view visually underlines each field that is invalid in red.
 13. Create a koin module in data. Register your view model with Koin so it's injected into the your SignInFragment. Load and unload this module based on the android lifecycle. 
 
-Bonus points:
+# Bonus points:
 14. If the username and password are validated with no errors, navigate the user to a blank fragment located in the feature2 module. Hint: you can use the navigation graph for this.
 15. Use the provided Resource class for passing state back to the UI from the view model.
