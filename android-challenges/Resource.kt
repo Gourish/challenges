@@ -7,9 +7,7 @@ data class Resource<T> (val state: String, val data: T? = null, val message: Str
         const val LOADING = "loading"
         const val INVALID = "invalid"
         const val VALID = "valid"
-        const val REQUIRES_AUTHENTICATION = "requires authentication"
         const val EMPTY = "empty"
-        const val NO_PROFILE_CARD_EXISTS = "NO_PROFILE_CARD_EXISTS"
 
         fun <T> empty(): Resource<T> {
             return Resource(EMPTY)
@@ -17,14 +15,6 @@ data class Resource<T> (val state: String, val data: T? = null, val message: Str
 
         fun <T> custom(state: String, data: T? = null): Resource<T> {
             return Resource(state)
-        }
-
-        fun <T> noProfileCardExists(): Resource<T> {
-            return Resource(NO_PROFILE_CARD_EXISTS)
-        }
-
-        fun <T> requiresAuthentication(): Resource<T> {
-            return Resource(REQUIRES_AUTHENTICATION)
         }
 
         fun <T> valid(data: T? = null): Resource<T> {
