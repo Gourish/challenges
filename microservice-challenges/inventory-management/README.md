@@ -49,7 +49,7 @@
  }
  
  2) This API lets user to list all the products 
- GET : http://localhost:8080/productList
+ GET : http://localhost:8080/productsList
  
  sample response 
  [
@@ -91,7 +91,7 @@
  
  5) This API lets user to get product based on category 
   
-  GET: http://localhost:8080/productsListByName/OPPO
+  GET: http://localhost:8080/productsListByCategory/Electronic%20gadget
  
  sample response 
  {
@@ -104,9 +104,10 @@
  }
  
  6) This API lets user to update the product 
- PUT : http://localhost:8080/productsListById/4a118775-0bd3-4174-84e7-e54e09e15e53
+ PUT : http://localhost:8080/updateProduct/4a118775-0bd3-4174-84e7-e54e09e15e53
  sample request
  {
+    
     "name": "OPPO",
     "category": "Electronic gadget",
     "description": "Mobile phone for talking",
@@ -116,6 +117,7 @@
  
  sample response
  {
+    "id": "4a118775-0bd3-4174-84e7-e54e09e15e53",
     "name": "OPPO",
     "category": "Electronic gadget",
     "description": "Mobile phone for talking",
@@ -125,6 +127,7 @@
  
  7) This API lets user to delete the product
  DELETE : http://localhost:8080/deleteProduct/4a118775-0bd3-4174-84e7-e54e09e15e53
+wanted to give you morning coffe when you wake up
  
 
 # Service Requirements
